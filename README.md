@@ -1,5 +1,6 @@
 ### EXPERIMENT -07 CONFIGURING NETWORK SERVER FOR CONNECTING GATEWAY AND END NODE 
- 
+### NAME : JIDHESH P
+### REG NO: 212223040078
 ## Aim: 
 To  configure the Network server and end device for transferring data on the network
 ## Components required: 
